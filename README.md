@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🎸 GuitarFros
 
-<!--
-**guitarfros/guitarfros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Apps e plugins para guitarristas e produtores.**
 
-Here are some ideas to get you started:
+Ferramentas feitas por e para guitarristas: apps para practicar e tocar, e plugins VST3 para sacar o mellor son do teu equipo e do teu DAW.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Apps para guitarristas
+_Próximamente_
+
+## 🎛️ Plugins VST3 para guitarra
+_Próximamente_
+
+## 🎚️ Plugins VST3 de efectos para DAW
+_Próximamente_
+
+## 📬 Contacto
+- Correo: guitarfros@gmail.com
